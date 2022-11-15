@@ -1,3 +1,3 @@
-public class Rectangle{
-  ///some code here
+public class Triangle{
+  ///some code here(triangle)
 }
